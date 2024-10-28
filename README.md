@@ -17,6 +17,10 @@
 
 The company has an online platform where students can register and receive online tutorials, the platform offers various Disciplines. Examples include Hausa, Yoruba, Igbo, ijaw etc. Here I did an analysis on the platform usage and below were the questions answered.
 
+![Screenshot 2024-05-27 141243](https://github.com/user-attachments/assets/0d310eef-3aae-47bb-b092-c2ab27bab01f)
+
+
+
 ### Data Sources
 
 Data was given Online in an excel format. I downloaded the csv file, and extracted it into Power BI for cleaning, analysis and visualization. The data contains a sheet/table called Data Association with 12,500 rows and 14 columns.
@@ -40,14 +44,31 @@ Some of the applied steps included:
   EDA involves exploring the tutors data to answer key questions, such as :
 
   -  The Total Request for the Month
-  -  The Total Classes Held in the Month
-  -  The Total Classes Terminated in the Month
-  -  The Completion Rate for the Month
-  -  The Number of Total Request by Level
-  -  The Number of Total Request by Language
-  -  The Total Request by Status
-  -  The Student Feedback Percentage ratio
 
+  -  ![Screenshot 2024-05-27 143106](https://github.com/user-attachments/assets/cd520cd6-d8ca-4503-b57c-0d7484793b4e)
+
+  -  The Total Classes Held in the Month
+
+  -  ![Screenshot 2024-05-27 143938](https://github.com/user-attachments/assets/4f9e080c-4325-4aa0-9130-ad27b7046aee)
+
+  -  The Total Classes Terminated in the Month
+
+  -  ![Screenshot 2024-05-27 143952](https://github.com/user-attachments/assets/30305555-b2e6-4d59-9727-6f8d91247dc5)
+
+  -  The Completion Rate for the Month
+
+  -  ![Screenshot 2024-05-27 144001](https://github.com/user-attachments/assets/711793ce-8eb6-48d2-be1e-3755995d4deb)
+
+  -  Total Request by Level
+
+  - ![Screenshot 2024-05-27 144759](https://github.com/user-attachments/assets/37e8b98d-e56d-42f7-b836-1fbe3b49d355)
+
+  - 
+  -  The Total Request by Status
+
+  -  ![Screenshot 2024-05-27 144829](https://github.com/user-attachments/assets/c506f72c-d9c8-49d0-952e-b07d8bddd689)
+
+  
 ### Data Analysis
 
 I added some measures to help in my Analysis
@@ -82,6 +103,15 @@ For an in-depth understanding of data-driven improvements and limitations in edu
 Student Motivation in Learning Retention:
 
 Schunk, D. H., & Zimmerman, B. J. (2012). Motivation and Self-Regulated Learning: Theory, Research, and Applications. This book provides insights into the complexities of student motivation and retention in educational settings.
+
+
+👨‍🏫
+🖥️
+
+|Heading1|Heading2|
+|--------|--------|
+|Content1|Content2|
+|Excel|PowerBi|
 
 
 
