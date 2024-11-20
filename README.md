@@ -96,6 +96,8 @@ To improve the completion rate, focus on better tutor-student matching, enhance 
 
 Limitations include data quality issues, scheduling constraints, external student factors, scalability of personalized support, reliance on honest feedback, and potential training costs.
 
+This is the link to the dashboard _**[Here](https://app.powerbi.com/links/PLTZnyWl-w?ctid=68d0e28b-8755-4832-b3bc-da8d0637c69d&pbi_source=linkShare&bookmarkGuid=e79eb0d1-1bd5-42f2-b188-33d214e90479)**_
+
 ### References
 
 For an in-depth understanding of data-driven improvements and limitations in educational or tutoring analysis, here are some general references:
